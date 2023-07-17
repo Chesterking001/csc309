@@ -6,10 +6,18 @@
 <body>
     <h2>Registration Form</h2>
 
-    <!-- Select all users and display in a Table -->
+    <!-- Igwe --> 
+    <!-- chimdindu -->
+    <!-- F -->
+    <!-- 2000-06-15 -->
+    <!-- igwec@gmail.com -->
     <table>
         <thead>
-            <!-- Complete the table header row -->
+            <!-- Last Name -->
+            <!-- First Name -->
+            <!-- Gender -->
+            <!-- Date of birth -->
+            <!-- Email -->
         </thead>
 
         <tbody>
